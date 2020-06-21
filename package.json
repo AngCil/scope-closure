@@ -1,0 +1,20 @@
+{
+  "name": "closure-scope",
+  "version": "1.0.0",
+  "description": "Prácticas con el socpe y los closures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngCil/scope-closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngCil/scope-closure/issues"
+  },
+  "homepage": "https://github.com/AngCil/scope-closure#readme"
+}
